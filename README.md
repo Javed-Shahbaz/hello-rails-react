@@ -106,7 +106,7 @@ To run the project, navigate to the project directory and execute the following 
   bundle install
   rails db:create db:migrate 
   npm run build
-  rails server
+  ./bin/dev
 ```
 
 ### Run tests
